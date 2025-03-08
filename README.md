@@ -22,3 +22,9 @@
 # 晋江小说
 
 可以爬取免费章节
+
+# bilibili爬虫
+
+第四十六行、第四十七行需要替换为自己的账号密码
+可进行自动登录，但需要人机验证
+懒加载api，理论无上限 url_long = 'https://api.bilibili.com/x/v2/reply/main'
